@@ -1,1 +1,3 @@
-Classifiers will be uploaded soon
+- Experimenting classifiers on a noisy dataset. 
+- The dataset has been collected from a survey at a school. More info about the dataset's origin will be updated soon. 
+- Dataset contains errors in data entry which have been taken care of during preprocessing. 
